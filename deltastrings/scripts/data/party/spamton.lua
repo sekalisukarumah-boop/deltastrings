@@ -27,8 +27,8 @@ function character:init()
    -- self.xact_name = "Deal"
 
     -- Spells by id
-    self:addSpell("jevv_slash")
-    self:addSpell("heal_deal")
+    -- self:addSpell("jevv_slash")
+    -- self:addSpell("heal_deal")
 
 
     -- Current health (saved to the save file)
